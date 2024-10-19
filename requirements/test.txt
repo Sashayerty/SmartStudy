@@ -1,11 +1,13 @@
 -r prod.txt
+autoflake8==0.4.1
 black==24.10.0
 click==8.1.7
 flake8==7.1.1
+flake8-import-order==0.18.2
 mccabe==0.7.0
 mypy-extensions==1.0.0
 pathspec==0.12.1
 platformdirs==4.3.6
 pycodestyle==2.12.1
 pyflakes==3.2.0
-
+setuptools==75.2.0

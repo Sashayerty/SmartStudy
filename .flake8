@@ -1,0 +1,11 @@
+[flake8]
+ignore =
+    E501,
+    E712,
+    F541,
+    W503,
+    E101,
+exclude = 
+    templates,
+    venv,
+import-order-style = google
